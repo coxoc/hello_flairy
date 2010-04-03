@@ -1,0 +1,26 @@
+{
+	faonVersion: "1.0",
+	owner: "http://sfuruya.vo-id.org/",
+	target: "http://github.com/coxoc/hello_flairy/raw/master/",
+	top: "/index.html",
+	signature: "f9357a83bce5bdacfe39348766bfa8c6d339d9b734af7f6820c047502d5f7c1300ad1a508354a38eff78e2ee96c9cdd74ba9f8d0541c276ca27b5bf09cdbf52c",
+
+	title: "Hello Flairy",
+	version: "1.0.0",
+	description: "",
+	icon: "/images/notepad.png",
+	icon_48: "/images/notepad_48x48.png",
+  catalog: "private",
+
+	hints: {
+		window:{ 
+			maximizable: true,
+			minimizable: true,
+			resizable: true,
+			draggable: true,
+			width: 640,
+			height: 480
+		}
+	}
+}
+
